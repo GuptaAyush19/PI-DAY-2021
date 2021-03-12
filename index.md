@@ -1,4 +1,4 @@
-<img src="images/nasa.jpg" width=100% alt="NASA Pi Challenge"></img>
+<img src="images/nasa.jpg" width=100% alt="NASA Pi Challenge">
 
 Pi Day is an annual celebration of the mathematical constant π. Celebrated on March 14th (3/14) around the world, pi (Greek letter “π”) is the symbol used in mathematics to represent a constant — the ratio of the circumference of a circle to its diameter — which is approximately 3.14159.
 
