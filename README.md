@@ -42,10 +42,7 @@ To download the source code using git enter this command in your system's termin
 ```
 git clone https://github.com/GuptaAyush19/PI-DAY-2021.git
 ```
-and run this command to install all the required packages
-```
-pip install -r requirements.txt
-```
+
 If you do not have _git_ installed download the zip file from [here]().
 
 ## Execute the program
