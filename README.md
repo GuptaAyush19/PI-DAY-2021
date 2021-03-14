@@ -46,3 +46,21 @@ git clone https://github.com/GuptaAyush19/PI-DAY-2021.git
 If you do not have _git_ installed download the zip file from [here]().
 
 ## Execute the program
+To run this python program, open terminal and enter
+```
+python main.py
+```
+
+This will be the expected output
+```
+APPROX PI = 3.141592653589793
+gregory_leibniz pi = 3.1514934010709914, diff = -0.0099, preci = -0.3151
+madhava pi = 3.141592653589794, diff = -0.0, preci = -0.0
+newton pi = 3.292481961083404, diff = -0.1509, preci = -4.8033
+quarter_circle pi = 3.1244000000000005, diff = 0.0172, preci = 0.5475
+ramanujan_sato pi = 3.141592653589793, diff = 0.0, preci = 0.0
+sqrt_g pi = 3.132091952673165, diff = 0.0095, preci = 0.3024
+taylor_series pi = 3.141592653589793, diff = 0.0, preci = 0.0
+twenty_two_by_7 pi = 3.142857142857143, diff = -0.0013, preci = -0.0414
+```
+*NOTE: quarter_circle uses random numbers so the output may differ each time you run the program.* 
