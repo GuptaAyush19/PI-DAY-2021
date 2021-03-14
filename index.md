@@ -6,11 +6,10 @@ It has been a tradition to calculate the approximate value of π on this day usi
 
 ## Approximation of π
 
-* Archimedes’ approximation (polygon method)
-* Eulers’ identity _e<sup>iπ</sup>-1=0_
 * Generating random numbers between 0 and 1, using it to create a quarter circle and calculating its area
 * Gregory-Leibniz series
 * Madhava of Sangamagrama
+* Newton's Approximation of π
 * Ramanujan-Sato series
 * Square root of _g_ (acceleration due to gravity on Earth)
 * Trigonometric Ratios ie Taylor series
